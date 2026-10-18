@@ -5,3 +5,5 @@ data/events.csv
 *.zip
 __pycache__/
 .ipynb_checkpoints/
+data/item_properties_part*.csv
+data/category_tree.csv
